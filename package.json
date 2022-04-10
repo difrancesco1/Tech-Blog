@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mollyrendon/difrancesco1-tech-blog.git"
+    "url": "git+https://github.com/difrancesco1/difrancesco1-tech-blog.git"
   },
-  "author": "Molly Rendon",
+  "author": "Joshua DiFrancesco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mollyrendon/difrancesco1-tech-blog/issues"
+    "url": "https://github.com/difrancesco1/difrancesco1-tech-blog/issues"
   },
-  "homepage": "https://github.com/mollyrendon/difrancesco1-tech-blog#readme",
+  "homepage": "https://github.com/difrancesco1/difrancesco1-tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
